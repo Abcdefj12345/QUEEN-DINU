@@ -4,7 +4,7 @@
   "logo": "https://i.imgur.com/dUav9x3.jpeg",
   "keywords": ["bot", "whatsapp", "md"],
   "success_url": "/",
-  "repository": "https://github.com/your-repo/LOD-X-MD", // ඔයාගේ repository URL එක එකතු කරන්න, Heroku deploy කරද්දි ඕන වෙන්න පුළුවන්
+  "repository": "https://github.com/lodxmd/LOD-X-MD-", // ඔයාගේ repository URL එක එකතු කරන්න, Heroku deploy කරද්දි ඕන වෙන්න පුළුවන්
   "stack": "heroku-24", // Stack එක මෙතනට ගෙනාවා, "container" එක ඉවත් කළා
 
   "env": {
