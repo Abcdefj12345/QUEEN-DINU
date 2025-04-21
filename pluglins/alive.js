@@ -18,7 +18,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *🤠 𝐎𝐰𝐧𝐞𝐫: ®CYBER DINU ID🐉*
 ┃◈└───────────┈⊷
 ╰──────────────┈
-┏━❮ 🩵𝐇𝐀𝐒𝐇𝐈 𝐃𝐄𝐓𝐀𝐋𝐄𝐒🩵 ❯━
+┏━❮ 🩵𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐃𝐄𝐓𝐀𝐋𝐄𝐒🩵 ❯━
 ┃◈┃🤖 ʙᴏᴛ ɴᴀᴍᴇ :𝐋𝐎𝐃-✗-𝐌𝐃
 ┃◈┃🔖 ᴠᴇʀsɪᴏɴ : 2.0
 ┃◈┃📟 ᴘʟᴀᴛғᴏʀᴍ : Linux
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•𝟐 || 𝐁𝐎𝐓 𝐌𝐄𝐍𝐔
 ┃◈└───────────┈⊷
 ┗━━━━━━━━━━━━━━𖣔𖣔
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ᴄʏʙʀʀ ᴅɪɴᴜ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙʀʀ ᴅɪɴᴜ ɪᴅ
 `;
 const aliveMessage = await conn.sendMessage(from, { 
             video: { url: `https://github.com/MR-LAKSIDU/test-web/blob/main/videoguru-20250414-084113212_vGmu7uQJ.mp4?raw=true` }, 
@@ -45,7 +45,7 @@ const aliveMessage = await conn.sendMessage(from, {
                     body: "CYBER DINU ID",
                     mediaType: 1,
                     sourceUrl: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
-                    thumbnailUrl: "https://i.ibb.co/zwhqLSQ/20250406- cicl120212.jpg",
+                    thumbnailUrl: "https://i.ibb.co/9XXj9y6/3787.jpg",
                     renderLargerThumbnail: true,
                     showAdAttribution: true
                 }
@@ -53,7 +53,7 @@ const aliveMessage = await conn.sendMessage(from, {
         }, { quoted: mek });
 
         const sentMsg = await conn.sendMessage(from, {
-            image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` },
+            image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` },
             caption: cap,
             contextInfo: {
                 mentionedJid: ['94727163302@s.whatsapp.net'],
@@ -70,7 +70,7 @@ const aliveMessage = await conn.sendMessage(from, {
                     body: 'CYBER DINU ID',
                     mediaType: 1,
                     sourceUrl: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
-                    thumbnailUrl: 'https://i.imgur.com/c0pAsWe.jpeg',
+                    thumbnailUrl: 'https://i.ibb.co/RpT6gczx/7337.jpg',
                     renderLargerThumbnail: true,
                     showAdAttribution: true
                 }
@@ -378,7 +378,7 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
 > ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
-        const menu5 = `
+       const menu5 = `
 ◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒⁠⁠⁠⁠📥𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑-𝐂𝐌𝐃 📥❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
@@ -490,18 +490,18 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 🏷️ᴜsᴇ: prefix rtik <name>
  ╰────────────────────✵✵
 
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
         const menu6 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒⁠⁠⁠⁠🗝️𝐌𝐀𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓🗝️❒⁠⁠⁠⁠=*
+*=❒🗝️𝐌𝐀𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓🗝️❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: menu
@@ -555,18 +555,19 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: shutdown
  │ 🏷️ᴜsᴇ: prefix shutdown
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
+
         const menu7 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨❒⁠⁠⁠⁠=*
+*=❒𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: sticker
@@ -636,19 +637,19 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: attp
  │ 🏷️ᴜsᴇ: prefix attp <text>
  ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
+
         const menu8 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=𝗢𝗧𝗛𝗘𝗥 𝗠𝗘𝗡𝗨=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ:cpp
@@ -718,19 +719,19 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: attp
  │ 🏷️ᴜsᴇ: prefix attp <text>
  ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
-        const menu9 = `
+
+             const menu9 = `
 ❢◥ ▬▬▬▬▬▬▬ ◆ ▬▬▬▬▬▬▬ ◤❢
-*=❒𝗟𝗢𝗚𝗢 𝗠𝗘𝗡𝗨❒⁠⁠⁠⁠=*
+*=❒𝗟𝗢𝗚𝗢 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬▬▬ ◆ ▬▬▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
-*│ 🔥 ᴠᴇʀꜱɪᴏɴ : 2.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: logo
@@ -738,21 +739,21 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: logo2
- │ 🏷️ᴜsᴇ: prefix attp <text>
+ │ 🏷️ᴜsᴇ: prefix logo2 <text>
  ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
+
         const menu10 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒𝗙𝗨𝗡 𝗠𝗘𝗡𝗨❒⁠⁠⁠⁠=*
+*=❒𝗙𝗨𝗡 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: loli
@@ -1002,19 +1003,19 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: repeat
  │ 🏷️ᴜsᴇ: prefix repeat
  ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
+
         const menu11 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒👥𝐆𝐑𝐎𝐔𝐏-𝐂𝐌𝐃👥❒⁠⁠⁠⁠=*
+*=❒👥𝐆𝐑𝐎𝐔𝐏-𝐂𝐌𝐃👥❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: autoai on
@@ -1026,7 +1027,7 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: stopwallpaper
- │ 🏷️ᴜsᴇ: prefix stopwallapaper
+ │ 🏷️ᴜsᴇ: prefix stopwallpaper
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: admins
@@ -1090,7 +1091,7 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: add3
- │ 🏷️ᴜsᴇ: prefix add3 <9477XXXX>
+ │ 🏷️ᴜsᴇ: prefix add3 <9472XXXX>
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ:appove
@@ -1130,7 +1131,7 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: add
- │ 🏷️ᴜsᴇ: prefix add <9477XXX>
+ │ 🏷️ᴜsᴇ: prefix add <9472XXX>
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: end
@@ -1189,18 +1190,16 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 🏷️ᴜsᴇ: prefix unmute
  ╰────────────────────✵✵
 
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
-`;
         const menu12 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒ AUTO SEND ❒⁠⁠⁠⁠=*
+*=❒ AUTO SEND ❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: autoai
@@ -1234,19 +1233,19 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: stopwallpaper
  │ 🏷️ᴜsᴇ: prefix stopwallpaper
  ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
+
         const menu13 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*=❒ NEWS MENU❒⁠⁠⁠⁠=*
+*=❒ NEWS MENU❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
 *│ 🔥 ᴠᴇʀꜱɪᴏɴ : 1.0*
-*│ 🔥 ᴏᴡɴᴇʀ : ᴍʀ ʟᴀᴋꜱɪᴅᴜ*
+*│ 🔥 ᴏᴡɴᴇʀ : CYBER DINU ID*
 *╰──────────●●*
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: derana
@@ -1276,12 +1275,8 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: siyatha
  │ 🏷️ᴜsᴇ: prefix siyatha
  ╰────────────────────✵✵
- ╭────────✵✵
- │ 📚ᴄᴏᴍᴍᴀɴᴅ: siyatha
- │ 🏷️ᴜsᴇ: prefix siyatha
- ╰────────────────────✵✵
-
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+`;
 `;
 
         // Event listener for replies
@@ -1303,7 +1298,7 @@ const aliveMessage = await conn.sendMessage(from, {
                     await conn.sendMessage(from, { 
                         text: `*ꜱᴘᴇᴇᴅ : ${ping}ms*`,
                         contextInfo: {
-                            mentionedJid: ['94760698006@s.whatsapp.net'],
+                            mentionedJid: ['94727163302@s.whatsapp.net'],
                             groupMentions: [],
                             forwardingScore: 1,
                             isForwarded: true,
@@ -1313,11 +1308,11 @@ const aliveMessage = await conn.sendMessage(from, {
                                 serverMessageId: 999
                             },
                             externalAdReply: {
-                                title: '☆𝐇𝐀𝐒𝐇𝐈 𝐌𝐃☆',
-                                body: '®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💚',
+                                title: 'LOD-✗-MD',
+                                body: '®CYBER DINU ID',
                                 mediaType: 1,
-                                sourceUrl: "https://wa.me/+94760698006?text=HEY_LAKSIDU😩⃝⃚💗⃝⃚🍓🪄🤍",
-                                thumbnailUrl: 'https://i.ibb.co/zwhqLSQ/20250406-120212.jpg',
+                                sourceUrl: "https://wa.me/+94760698006?text=HEY_Dinu+bbh😙💗",
+                                thumbnailUrl: 'https://i.ibb.co/9XXj9y6/3787.jpg',
                                 renderLargerThumbnail: false,
                                 showAdAttribution: true
                             }
@@ -1329,10 +1324,10 @@ const aliveMessage = await conn.sendMessage(from, {
 *🍓🍟  හායි ${pushname} කොහමද ඔයාට😝♦*
 
 *┏〔${new Date().getHours() < 12 ? '🌄 සුබ උදෑසනක්  🌄*' : '🌛 සුබ රාත්‍රියක් 🌛*'}〕
-*┃🤖 ʙᴏᴛ ɴᴀᴍᴇ : 𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈*
-*┃🔖 ᴠᴇʀsɪᴏɴ : 2.0*
+*┃🤖 ʙᴏᴛ ɴᴀᴍᴇ : 𝐋𝐎𝐃-✗-𝐌𝐃*
+*┃🔖 ᴠᴇʀsɪᴏɴ : 1.0*
 *┃📟 ᴘʟᴀᴛғᴏʀᴍ : Linux*
-*┃👨‍💻 ᴏᴡɴᴇʀ: 𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔*
+*┃👨‍💻 ᴏᴡɴᴇʀ: 𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃*
 *┃📆 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}* 
 *┃📈 ʀᴀᴍ ᴜsᴀɢᴇ: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *┗━━━━━━━━━━━━━━𖣔𖣔*
@@ -1354,19 +1349,19 @@ const aliveMessage = await conn.sendMessage(from, {
 ┃◈┃•➪ 𝟭𝟯 𝗡𝗘𝗪𝗦 𝗠𝗘𝗡𝗨
 ┃◈└──────────────┈⊷
 ╰──────────────────┈⊷
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴍʀ  ʟᴀᴋꜱɪᴅᴜ ᶜᵒᵈᵉʳ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
 `;
                     await conn.sendMessage(from, { 
-                        audio: { url: `https://github.com/MR-LAKSIDU/test-web/blob/main/menu.mp3?raw=true` }, 
+                        audio: { url: `https://github.com/LOD/test-web/blob/main/menu.mp3?raw=true` }, 
                         mimetype: "audio/mpeg",
                         ptt: "true",
                         contextInfo: {
                             externalAdReply: {
-                                title: "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈",
-                                body: "®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💚",
+                                title: "LOD-✗-MD",
+                                body: "®CYBER DINU ID",
                                 mediaType: 1,
-                                sourceUrl: "https://whatsapp.com/channel/0029Vao7dOmDOQISArwnHT0e",
-                                thumbnailUrl: "https://i.ibb.co/zwhqLSQ/20250406-120212.jpg",
+                                sourceUrl: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
+                                thumbnailUrl: "https://i.ibb.co/9XXj9y6/3787.jpg",
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true
                             }
@@ -1374,16 +1369,16 @@ const aliveMessage = await conn.sendMessage(from, {
                     }, { quoted: mek });
 
                     const menuMsg = await conn.sendMessage(from, {
-                        image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` },
+                        image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` },
                         caption: menuCap,
                         contextInfo: {
-                            mentionedJid: ['94760698006@s.whatsapp.net'],
+                            mentionedJid: ['94727163302@s.whatsapp.net'],
                             groupMentions: [],
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363349375266377@newsletter',
-                                newsletterName: "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈",
+                                newsletterJid: '120363401755639074@newsletter',
+                                newsletterName: "LOD X MD FORWARD",
                                 serverMessageId: 999
                             }
                         }
@@ -1402,43 +1397,43 @@ const aliveMessage = await conn.sendMessage(from, {
                         if (isReplyToMenuMsg) {
                             switch (menuMessageType) {
                                 case '1':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu1 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu1 }, { quoted: menuMek });
                                     break;
                                 case '2':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu2 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu2 }, { quoted: menuMek });
                                     break;
                                 case '3':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu3 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu3 }, { quoted: menuMek });
                                     break;
                                 case '4':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu4 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu4 }, { quoted: menuMek });
                                     break;
                                 case '5':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu5 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu5 }, { quoted: menuMek });
                                     break;
                                 case '6':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu6 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu6 }, { quoted: menuMek });
                                     break;
                                 case '7':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu7 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu7 }, { quoted: menuMek });
                                     break;
                                 case '8':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu8 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu8 }, { quoted: menuMek });
                                     break;
                                 case '9':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu9 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu9 }, { quoted: menuMek });
                                     break;
                                 case '10':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu10 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu10 }, { quoted: menuMek });
                                     break;
                                 case '11':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu11 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu11 }, { quoted: menuMek });
                                     break;
                                 case '12':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu12 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu12 }, { quoted: menuMek });
                                     break;
                                 case '13':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/zwhqLSQ/20250406-120212.jpg` }, caption: menu13 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu13 }, { quoted: menuMek });
                                     break;
                                 default:
                                     await conn.sendMessage(menuFrom, { text: 'කරුණාකර 1-13 අතර අංකයක් තෝරන්න!' }, { quoted: menuMek });
