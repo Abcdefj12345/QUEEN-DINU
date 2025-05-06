@@ -19,7 +19,7 @@ async(conn, mek, m, {from, quoted, body, isCmd, command, args, q, isGroup, sende
 
         // Normal AI response
         let data = await fetchJson(`https://dark-shan-yt.koyeb.app/ai/gemini?q=${q}`)
-        return reply(` ${data.data}\n\n> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ`)
+        return reply(` ${data.data}\n\n> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ`)
     } catch(e) {
         console.log(e)
         reply(`අයියෝ බ්‍රෝ, එරර් එකක්! 😂\n${e}`)
