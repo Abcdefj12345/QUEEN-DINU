@@ -28,7 +28,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
             invalidString: (key) => `😓 *${key} සඳහා වැරදි වටිනාකමක්. කරුණාකර වලංගු string එකක් භාවිතා කරන්න.*`,
             invalidJid: (key) => `😓 *${key} සඳහා වැරදි JID ආකෘතියකි. කරුණාකර වලංගු WhatsApp JID එකක් භාවිතා කරන්න.*`,
             varNotFound: (key, envList) => `❌ *${key} ඉන්වයරන්මන්ට් වෙරියබල් එක හමු නොවීය.*\n\n*පවතින ඉන්වයරන්මන්ට් වෙරියබල්ස්:*\n\n${envList}`,
-            success: (key, value, mode) => `✅ *ඉන්වයරන්මන්ට් වෙරියබල් යාවත්කාලීන කරන ලදි.*\n\n🗃️ *${key}* ➠ ${value} ${mode ? `\n*මෝඩ්:* ${mode}` : ''}\n\n\n> LOD MD`,
+            success: (key, value, mode) => `✅ *ඉන්වයරන්මන්ට් වෙරියබල් යාවත්කාලීන කරන ලදි.*\n\n🗃️ *${key}* ➠ ${value} ${mode ? `\n*මෝඩ්:* ${mode}` : ''}\n\n\n> QUEEN DINU MD`,
             error: (err) => "💃🏻 *ඉන්වයරන්මන්ට් වෙරියබල් යාවත්කාලීන කිරීමට අපොහොසත් විය. කරුණාකර නැවත උත්සාහ කරන්න.* " + err,
         },
         english: {
@@ -41,7 +41,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
             invalidString: (key) => `😓 *Invalid value for ${key}. Please use a valid string.*`,
             invalidJid: (key) => `😓 *Invalid JID format for ${key}. Please use a valid WhatsApp JID.*`,
             varNotFound: (key, envList) => `❌ *The environment variable ${key} does not exist.*\n\n*Here are the existing environment variables:*\n\n${envList}`,
-            success: (key, value, mode) => `✅ *Environment variable updated.*\n\n🗃️ *${key}* ➠ ${value} ${mode ? `\n*Mode:* ${mode}` : ''}\n\n\n> LOD MD`,
+            success: (key, value, mode) => `✅ *Environment variable updated.*\n\n🗃️ *${key}* ➠ ${value} ${mode ? `\n*Mode:* ${mode}` : ''}\n\n\n> QUEEN DINU MD`,
             error: (err) => "💃🏻 *Failed to update the environment variable. Please try again.* " + err,
         }
     };
