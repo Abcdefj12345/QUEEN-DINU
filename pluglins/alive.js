@@ -18,8 +18,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *🤠 𝐎𝐰𝐧𝐞𝐫: ®CYBER DINU ID🐉*
 ┃◈└───────────┈⊷
 ╰──────────────┈
-┏━❮ 🩵𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐃𝐄𝐓𝐀𝐋𝐄𝐒🩵 ❯━
-┃◈┃🤖 ʙᴏᴛ ɴᴀᴍᴇ :𝐋𝐎𝐃-✗-𝐌𝐃
+┏━❮ 🩵𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐃𝐄𝐓𝐀𝐋𝐄𝐒🩵 ❯━
+┃◈┃🤖 ʙᴏᴛ ɴᴀᴍᴇ :𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔
 ┃◈┃🔖 ᴠᴇʀsɪᴏɴ : 2.0
 ┃◈┃📟 ᴘʟᴀᴛғᴏʀᴍ : Linux
 ┃◈┃👨‍💻ᴏᴡɴᴇʀ: 𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃
@@ -33,10 +33,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•𝟐 || 𝐁𝐎𝐓 𝐌𝐄𝐍𝐔
 ┃◈└───────────┈⊷
 ┗━━━━━━━━━━━━━━𖣔𖣔
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙʀʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
 const aliveMessage = await conn.sendMessage(from, { 
-            video: { url: `https://github.com/MR-LAKSIDU/test-web/blob/main/videoguru-20250414-084113212_vGmu7uQJ.mp4?raw=true` }, 
+            video: { url: `https://files.fm/u/3uzz3357gq` }, 
             mimetype: "video/mp4",
             ptv: true,
             contextInfo: {
@@ -45,7 +45,7 @@ const aliveMessage = await conn.sendMessage(from, {
                     body: "CYBER DINU ID",
                     mediaType: 1,
                     sourceUrl: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
-                    thumbnailUrl: "https://i.ibb.co/9XXj9y6/3787.jpg",
+                    thumbnailUrl: "https://files.fm/u/rbxm4zvp5r",
                     renderLargerThumbnail: true,
                     showAdAttribution: true
                 }
@@ -62,7 +62,7 @@ const aliveMessage = await conn.sendMessage(from, {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401755639074@newsletter',
-                    newsletterName: "LOD X MD FORWARD",
+                    newsletterName: "QUEEN DINU FORWARD",
                     serverMessageId: 999
                 },
                 externalAdReply: {
@@ -84,7 +84,7 @@ const aliveMessage = await conn.sendMessage(from, {
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *==❒⁠⁠⁠⁠ 👨‍💻 𝐎𝐖𝐍𝐄𝐑-𝐂𝐌𝐃 👨‍💻 ❒==*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛ�depart: true,
@@ -162,7 +162,7 @@ const aliveMessage = await conn.sendMessage(from, {
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒🎡𝗠𝗢𝗩𝗜𝗘 𝗠𝗘𝗡𝗨 🎡❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -177,13 +177,13 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ:firemovie
  │ 🏷️ᴜsᴇ: prefix firemovie <movie name>
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
         const menu3 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒⁠⁠⁠⁠ 🧠 𝐀𝐈-𝐂𝐌𝐃 🧠 ❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓 claws🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓 claws👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -239,13 +239,13 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 🏷️ᴜsᴇ: prefix prefix openai Hellow
  ╰────────────────────✵✵
 
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
         const menu4 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒⁠⁠⁠⁠🔎 𝐒𝐄𝐀𝐑𝐂𝐇-𝐂𝐌𝐃 🔍❒⁠⁠⁠⁠=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -376,13 +376,13 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: epi
  │ 🏷️ᴜsᴇ: prefix epi <name>
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
        const menu5 = `
 ◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒⁠⁠⁠⁠📥𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑-𝐂𝐌𝐃 📥❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -490,13 +490,13 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 🏷️ᴜsᴇ: prefix rtik <name>
  ╰────────────────────✵✵
 
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
         const menu6 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒🗝️𝐌𝐀𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓🗝️❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -537,7 +537,7 @@ const aliveMessage = await conn.sendMessage(from, {
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: pair
- │ 🏷️ᴜsᴇ: prefix pair <+9477XXXXXXX>
+ │ 🏷️ᴜsᴇ: prefix pair <+9472XXXXXXX>
  ╰────────────────────✵✵
  ╭────────✵✵
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: setting
@@ -555,14 +555,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: shutdown
  │ 🏷️ᴜsᴇ: prefix shutdown
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
         const menu7 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -637,14 +637,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: attp
  │ 🏷️ᴜsᴇ: prefix attp <text>
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
         const menu8 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=𝗢𝗧𝗛𝗘𝗥 𝗠𝗘𝗡𝗨=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -719,14 +719,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: attp
  │ 🏷️ᴜsᴇ: prefix attp <text>
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
              const menu9 = `
 ❢◥ ▬▬▬▬▬▬▬ ◆ ▬▬▬▬▬▬▬ ◤❢
 *=❒𝗟𝗢𝗚𝗢 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬▬▬ ◆ ▬▬▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -741,14 +741,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: logo2
  │ 🏷️ᴜsᴇ: prefix logo2 <text>
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
         const menu10 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒𝗙𝗨𝗡 𝗠𝗘𝗡𝗨❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -1003,14 +1003,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: repeat
  │ 🏷️ᴜsᴇ: prefix repeat
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
         const menu11 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒👥𝐆𝐑𝐎𝐔𝐏-𝐂𝐌𝐃👥❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -1189,12 +1189,13 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: unmute
  │ 🏷️ᴜsᴇ: prefix unmute
  ╰────────────────────✵✵
+ `;
 
         const menu12 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒ AUTO SEND ❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「🐉𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -1233,14 +1234,14 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: stopwallpaper
  │ 🏷️ᴜsᴇ: prefix stopwallpaper
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 
         const menu13 = `
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
 *=❒ NEWS MENU❒=*
 ❢◥ ▬▬▬▬▬ ◆ ▬▬▬▬▬ ◤❢
-*╭─「🐉𝐋𝐎𝐃 ✗ 𝐌𝐃 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓🐉」*
+*╭─「👸𝐐𝐔𝐄𝐄𝐍 𝐃𝐈𝐍𝐔 𝐌𝐄𝐍𝐔 𝐋𝐈𝐒𝐓👸」*
 *│ 🔥 ʀᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}*
 *│ 🔥 ʀᴀᴍ ᴜꜱᴀɢᴇ : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 *│ 🔥 ᴘʟᴀᴛꜰᴏʀᴍ : ${os.hostname()}*
@@ -1275,7 +1276,7 @@ const aliveMessage = await conn.sendMessage(from, {
  │ 📚ᴄᴏᴍᴍᴀɴᴅ: siyatha
  │ 🏷️ᴜsᴇ: prefix siyatha
  ╰────────────────────✵✵
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ ʟᴏᴅ ᴛᴇᴍ
 `;
 `;
 
@@ -1303,16 +1304,16 @@ const aliveMessage = await conn.sendMessage(from, {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363349375266377@newsletter',
+                                newsletterJid: '120363401755639074@newsletter',
                                 newsletterName: "",
                                 serverMessageId: 999
                             },
                             externalAdReply: {
-                                title: 'LOD-✗-MD',
+                                title: 'QUEEN-DINU-MD',
                                 body: '®CYBER DINU ID',
                                 mediaType: 1,
-                                sourceUrl: "https://wa.me/+94760698006?text=HEY_Dinu+bbh😙💗",
-                                thumbnailUrl: 'https://i.ibb.co/9XXj9y6/3787.jpg',
+                                sourceUrl: "https://wa.me/+94727163302?text=HEY_Dinu+bbh😙💗",
+                                thumbnailUrl: 'https://files.fm/u/rbxm4zvp5r',
                                 renderLargerThumbnail: false,
                                 showAdAttribution: true
                             }
@@ -1324,7 +1325,7 @@ const aliveMessage = await conn.sendMessage(from, {
 *🍓🍟  හායි ${pushname} කොහමද ඔයාට😝♦*
 
 *┏〔${new Date().getHours() < 12 ? '🌄 සුබ උදෑසනක්  🌄*' : '🌛 සුබ රාත්‍රියක් 🌛*'}〕
-*┃🤖 ʙᴏᴛ ɴᴀᴍᴇ : 𝐋𝐎𝐃-✗-𝐌𝐃*
+*┃🤖 ʙᴏᴛ ɴᴀᴍᴇ : QUEEN-DINU-MD*
 *┃🔖 ᴠᴇʀsɪᴏɴ : 1.0*
 *┃📟 ᴘʟᴀᴛғᴏʀᴍ : Linux*
 *┃👨‍💻 ᴏᴡɴᴇʀ: 𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃*
@@ -1349,7 +1350,7 @@ const aliveMessage = await conn.sendMessage(from, {
 ┃◈┃•➪ 𝟭𝟯 𝗡𝗘𝗪𝗦 𝗠𝗘𝗡𝗨
 ┃◈└──────────────┈⊷
 ╰──────────────────┈⊷
-> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ
+> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ
 `;
                     await conn.sendMessage(from, { 
                         audio: { url: `https://github.com/LOD/test-web/blob/main/menu.mp3?raw=true` }, 
@@ -1361,7 +1362,7 @@ const aliveMessage = await conn.sendMessage(from, {
                                 body: "®CYBER DINU ID",
                                 mediaType: 1,
                                 sourceUrl: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
-                                thumbnailUrl: "https://i.ibb.co/9XXj9y6/3787.jpg",
+                                thumbnailUrl: "https://files.fm/u/rbxm4zvp5r",
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true
                             }
@@ -1369,7 +1370,7 @@ const aliveMessage = await conn.sendMessage(from, {
                     }, { quoted: mek });
 
                     const menuMsg = await conn.sendMessage(from, {
-                        image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` },
+                        image: { url: `https://files.fm/u/rbxm4zvp5r` },
                         caption: menuCap,
                         contextInfo: {
                             mentionedJid: ['94727163302@s.whatsapp.net'],
@@ -1378,7 +1379,7 @@ const aliveMessage = await conn.sendMessage(from, {
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
                                 newsletterJid: '120363401755639074@newsletter',
-                                newsletterName: "LOD X MD FORWARD",
+                                newsletterName: "QUEEN DINU FORWARD",
                                 serverMessageId: 999
                             }
                         }
@@ -1397,43 +1398,43 @@ const aliveMessage = await conn.sendMessage(from, {
                         if (isReplyToMenuMsg) {
                             switch (menuMessageType) {
                                 case '1':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu1 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu1 }, { quoted: menuMek });
                                     break;
                                 case '2':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu2 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu2 }, { quoted: menuMek });
                                     break;
                                 case '3':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu3 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu3 }, { quoted: menuMek });
                                     break;
                                 case '4':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu4 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu4 }, { quoted: menuMek });
                                     break;
                                 case '5':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu5 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu5 }, { quoted: menuMek });
                                     break;
                                 case '6':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu6 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu6 }, { quoted: menuMek });
                                     break;
                                 case '7':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu7 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu7 }, { quoted: menuMek });
                                     break;
                                 case '8':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu8 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu8 }, { quoted: menuMek });
                                     break;
                                 case '9':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu9 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu9 }, { quoted: menuMek });
                                     break;
                                 case '10':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu10 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu10 }, { quoted: menuMek });
                                     break;
                                 case '11':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu11 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu11 }, { quoted: menuMek });
                                     break;
                                 case '12':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu12 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu12 }, { quoted: menuMek });
                                     break;
                                 case '13':
-                                    await conn.sendMessage(menuFrom, { image: { url: `https://i.ibb.co/9XXj9y6/3787.jpg` }, caption: menu13 }, { quoted: menuMek });
+                                    await conn.sendMessage(menuFrom, { image: { url: `https://files.fm/u/rbxm4zvp5r` }, caption: menu13 }, { quoted: menuMek });
                                     break;
                                 default:
                                     await conn.sendMessage(menuFrom, { text: 'කරුණාකර 1-13 අතර අංකයක් තෝරන්න!' }, { quoted: menuMek });
