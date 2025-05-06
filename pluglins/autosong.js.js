@@ -51,9 +51,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const url = data.url;
 
         let desc = `
-┏「🐉𝐋𝐎𝐃-𝐗-𝐌𝐃 𝐀𝐔𝐃𝐈𝐎🐉」
+┏「🐉𝐐𝐔𝐄𝐄𝐀𝐍-𝐃𝐈𝐍𝐔-𝐌𝐃 𝐀𝐔𝐃𝐈𝐎🐉」
 ┃ 👨‍💻Owner: 𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃
-┃ 🤖 Bot Name: 𝐋𝐎𝐃-𝐗-𝐌𝐃
+┃ 🤖 Bot Name: 𝐐𝐔𝐄𝐄𝐀𝐍-𝐃𝐈𝐍𝐔-𝐌𝐃
 ┗━━━━━━━━━━━━━━━𖣔𖣔
 ┏━❮ 🩵𝐇𝐀𝐒𝐇𝐈 𝐃𝐄𝐓𝐀𝐋𝐄𝐒🩵 ❯━
 ┃🤖 *මාතෘකාව:* ${data.title}
@@ -69,10 +69,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•3 | හඬ බාගත කරන්න 🎤
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ⚜️Powered By: ®𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃
+> ⚜️Powered By: ®𝐋𝐎𝐃 𝐓𝐄𝐌
 `;
         let info = `
-> ⚜️Powered By: ®𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃
+> ⚜️Powered By: ®𝐋𝐎𝐃 𝐓𝐄𝐌
 `;
 
         const sentMsg = await conn.sendMessage(from, {
@@ -85,7 +85,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401755639074@newsletter',
-                    newsletterName: "LOD X MD FORWARD",
+                    newsletterName: "QUEEN DINU MD FORWARD",
                     serverMessageId: 999
                 }
             }
@@ -182,7 +182,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             return reply("*`වලංගු JID එකක් නොවේ! WhatsApp JID එකක් භාවිතා කරන්න (උදා: 94727163302@s.whatsapp.net හෝ කණ්ඩායම් ID)`*");
         }
 
-        reply(`සෑම 15 විනාඩි 1කට වරක් සිංහල ගීත යැවීම ආරම්භ වෙනවා JID එකට: ${targetJid}! 🎵\n> ⚜️Powered By: ®𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃`);
+        reply(`සෑම 15 විනාඩි 1කට වරක් සිංහල ගීත යැවීම ආරම්භ වෙනවා JID එකට: ${targetJid}! 🎵\n> ⚜️Powered By: ®𝐋𝐎𝐃 𝐓𝐄𝐌`);
 
         // Auto-upload function for JID
         const autoUploadSong = async () => {
@@ -191,7 +191,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 const url = data.url;
 
                 let desc = `
-┏━❮💚𝐋𝐎𝐃-𝐗-𝐌𝐃 𝗦𝗢𝗡𝗚💚❯━
+┏━❮💚𝐐𝐔𝐄𝐄𝐍-𝐃𝐈𝐍𝐔-𝐌𝐃 𝗦𝗢𝗡𝗚💚❯━
 ┃💚 *මාතෘකාව:* ${data.title}
 ┃💚 *කාලය:* ${data.timestamp}
 ┃💚 *බැලීම්:* ${data.views}
