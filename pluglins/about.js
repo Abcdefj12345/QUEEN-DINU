@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     `*╔═════ °❀•°✮°•❀°═══════╗*\n` +
                     `  *┈━═☆  𝐋𝐎𝐃 𝐗 𝐌𝐃 ☆═━┈*\n` +
                     `*╚══════✮❁•°❀°•❁✮══════╝*\n` +
-                    `> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ`,
+                    `> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ`,
                 error: (e) => `කණගාටුයි, දෝෂයක් ඇති වුණා: ${e.message}`
             },
             english: {
@@ -62,7 +62,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     `*╔═════ °❀•°✮°•❀°═══════╗*\n` +
                     `  *┈━═☆  𝐋𝐎𝐃 𝐗 𝐌𝐃 ☆═━┈*\n` +
                     `*╚══════✮❁•°❀°•❁✮══════╝*\n` +
-                    `> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ᴄʏʙᴇʀ ᴅɪɴᴜ ɪᴅ`,
+                    `> ㋛︎ ᴘᴏᴡᴇʀᴅ ʙʏ  ʟᴏᴅ ᴛᴇᴍ`,
                 error: (e) => `An error occurred: ${e.message}`
             }
         };
@@ -79,7 +79,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363401755639074@newsletter',
-                    newsletterName: '❮❮ LOD X MD FORWARD ❯❯',
+                    newsletterName: '❮❮ QUEEN DINU MD FORWARD ❯❯',
                     serverMessageId: 143
                 }
             }
