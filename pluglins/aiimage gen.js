@@ -11,12 +11,12 @@ cmd({
 async (conn, mek, m, { from, q, reply }) => {
     try {
         if (!q) return reply(`
-*🤖 𝐋𝐎𝐃-𝐗-𝐌𝐃 𝐀𝐈 𝐈𝐌𝐀𝐆𝐄 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 🖼️*
+*🤖 𝐐𝐔𝐄𝐄𝐍-𝐃𝐈𝐍𝐔-𝐌𝐃 𝐀𝐈 𝐈𝐌𝐀𝐆𝐄 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑 🖼️*
 
 Usage: .Lod <image description>
 Example: .Lod Beautiful landscape with mountains
 
-> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃*
+> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐋𝐎𝐃 𝐓𝐄𝐌*
 `);
         await m.react("🔄");
 
@@ -41,7 +41,7 @@ Example: .Lod Beautiful landscape with mountains
 *📝 Prompt:* ${q}
 
 *Model:* Stable Diffusion
-> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐂𝐘𝐁𝐄𝐑 𝐃𝐈𝐍𝐔 𝐈𝐃*
+> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐋𝐎𝐃 𝐓𝐄𝐌*
 `,
             quoted: mek
         });
